@@ -1,7 +1,7 @@
 # Netflix.github.io
 
 Netflix Clone 
-<img align = "center" alt="coding" width="50" src="https://i.pinimg.com/originals/bb/74/04/bb74046420c4c992b8cabc6e667abe40.gif">
+<img align = "center" alt="coding" width="100" src="https://i.pinimg.com/originals/bb/74/04/bb74046420c4c992b8cabc6e667abe40.gif">
 
 ## Follow me
 
