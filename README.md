@@ -1,1 +1,2 @@
-# Netflix-Clone
+# netflix.github.io
+netflix_clone
